@@ -1,0 +1,221 @@
+Manifest-Version: 1.0
+Bundle-Copyright: Copyright (C) 2014-2016  iMinds - IBCN - UGent
+Bundle-DocURL: http://aiolos.intec.ugent.be
+Bundle-License: AGPL-3.0 (http://www.gnu.org/licenses/agpl-3.0.txt)
+Bundle-SymbolicName: tools
+Bundle-Version: 0.0.0
+Embedded-Runpath: jar/org.apache.felix.framework-4.2.1.jar,jar/biz.aQute
+ .launcher-latest.jar
+Git-Descriptor: 
+Git-SHA: 
+Main-Class: aQute.launcher.pre.EmbeddedLauncher
+
+Name: aQute/launcher/pre/EmbeddedLauncher.class
+MD5-Digest: nYrJyDn0p9qINT4AYWZo7A==
+SHA-Digest: v4qlJ1mRHGJPNdCTfUg7M3osF0g=
+SHA1-Digest: v4qlJ1mRHGJPNdCTfUg7M3osF0g=
+
+Name: jar/be.iminds.aiolos.cloudmanager.local-0.7.0.jar
+MD5-Digest: 3gpfmWFaShmzWlUxlaBSSg==
+SHA-Digest: 06FwjoanDfGkh6G1grzPEZbbl8U=
+SHA1-Digest: 06FwjoanDfGkh6G1grzPEZbbl8U=
+
+Name: jar/be.iminds.aiolos.demo-0.7.0.jar
+MD5-Digest: OzXrj26T5Zbqj1ldNf/EkQ==
+SHA-Digest: hTT7pvPkunjD9EPDJhuh7sCgM/s=
+SHA1-Digest: hTT7pvPkunjD9EPDJhuh7sCgM/s=
+
+Name: jar/be.iminds.aiolos.deploymentmanager-0.7.0.jar
+MD5-Digest: mzLyXLYv6mhNUsi/o8g9Vg==
+SHA-Digest: oA91+nClsZknwFE82OyK6BHLFXw=
+SHA1-Digest: oA91+nClsZknwFE82OyK6BHLFXw=
+
+Name: jar/be.iminds.aiolos.discovery-0.7.0.jar
+MD5-Digest: xWeZSDap1D5pN6SKez1M5w==
+SHA-Digest: qgWmtpE+3RULJQp/TPzLQbnACdg=
+SHA1-Digest: qgWmtpE+3RULJQp/TPzLQbnACdg=
+
+Name: jar/be.iminds.aiolos.nodemonitor-0.7.0.jar
+MD5-Digest: l9MFSJW0uCqfkVITmbzPMQ==
+SHA-Digest: hBSdDk/Xuz0P78I/styKfQ6YLjc=
+SHA1-Digest: hBSdDk/Xuz0P78I/styKfQ6YLjc=
+
+Name: jar/be.iminds.aiolos.platformmanager-0.7.0.jar
+MD5-Digest: HeUb+hgPakT1i2ZkiqAg0w==
+SHA-Digest: 7Czyhp2qFwi1HQlaNfZNUtzm/AY=
+SHA1-Digest: 7Czyhp2qFwi1HQlaNfZNUtzm/AY=
+
+Name: jar/be.iminds.aiolos.proxymanager-0.7.0.jar
+MD5-Digest: NghQghaafCEqFLQdpqzKTw==
+SHA-Digest: p+qf3dmK3qDczWYAn54LKrDvrbE=
+SHA1-Digest: p+qf3dmK3qDczWYAn54LKrDvrbE=
+
+Name: jar/be.iminds.aiolos.remoteserviceadmin-0.7.0.jar
+MD5-Digest: PucG6F3YlzD3JzS8c/dqdw==
+SHA-Digest: Y/ugqyZ5YitbrpIx9QTIPnxot+A=
+SHA1-Digest: Y/ugqyZ5YitbrpIx9QTIPnxot+A=
+
+Name: jar/be.iminds.aiolos.repository.http-0.7.0.jar
+MD5-Digest: 29veXndc6O2j+3xEkFH3kg==
+SHA-Digest: MxBMVle7UMcIdvN8QP0dhL4lFKA=
+SHA1-Digest: MxBMVle7UMcIdvN8QP0dhL4lFKA=
+
+Name: jar/be.iminds.aiolos.servicemonitor-0.7.0.jar
+MD5-Digest: 0V9thx74g2vTr2OfE1+6Vw==
+SHA-Digest: VTcdekFyuE27Di2OclqUYGgGsf0=
+SHA1-Digest: VTcdekFyuE27Di2OclqUYGgGsf0=
+
+Name: jar/be.iminds.aiolos.topologymanager-0.7.0.jar
+MD5-Digest: 9acUOTqnRJENpiXNJdgUuQ==
+SHA-Digest: hz62yP6ZZo2cgHG2k/Zy3IW8sPY=
+SHA1-Digest: hz62yP6ZZo2cgHG2k/Zy3IW8sPY=
+
+Name: jar/be.iminds.aiolos.userinterface-0.7.0.jar
+MD5-Digest: ulqixPUXvNDHwmkxrFpibQ==
+SHA-Digest: 59xl8qOJkf8NKkYzmI2+MQRnI08=
+SHA1-Digest: 59xl8qOJkf8NKkYzmI2+MQRnI08=
+
+Name: jar/biz.aQute.launcher-latest.jar
+MD5-Digest: 83ESb3F048v2rvrbTkAuNQ==
+SHA-Digest: Rf1Bf74++4X0jW+kHJZfQoaRBJc=
+SHA1-Digest: Rf1Bf74++4X0jW+kHJZfQoaRBJc=
+
+Name: jar/ch.qos.logback.classic-1.0.13.jar
+MD5-Digest: GFhqB4tRkYlCAC7AhTOOGQ==
+SHA-Digest: a1bsdStCzPoUFcA2H7VLHtfKPbY=
+SHA1-Digest: a1bsdStCzPoUFcA2H7VLHtfKPbY=
+
+Name: jar/ch.qos.logback.core-1.0.13.jar
+MD5-Digest: lFxtw8ENPOeE1Faou70CYg==
+SHA-Digest: 3G5s6Tc0e9TZkPyJ9M60adtT5F4=
+SHA1-Digest: 3G5s6Tc0e9TZkPyJ9M60adtT5F4=
+
+Name: jar/com.esotericsoftware.kryo-2.23.0.jar
+MD5-Digest: Ox4oYUfwHtB3jC4ay12Rbg==
+SHA-Digest: CoX7bQLeDZk5MD3DLZYW9elhaHg=
+SHA1-Digest: CoX7bQLeDZk5MD3DLZYW9elhaHg=
+
+Name: jar/com.googlecode.json-simple-1.1.1.jar
+MD5-Digest: 8VNWV+vhIvibrT91otztrQ==
+SHA-Digest: XW+bap3coqKMAhbMRO+y4g2cI7U=
+SHA1-Digest: XW+bap3coqKMAhbMRO+y4g2cI7U=
+
+Name: jar/de.javakaffee.kryo-serializers-0.23.0.jar
+MD5-Digest: ADjgmeXJ01xvxA0oUcnDWw==
+SHA-Digest: F60CyJlZr7O9XawckYByE8ZvsuI=
+SHA1-Digest: F60CyJlZr7O9XawckYByE8ZvsuI=
+
+Name: jar/jslp-1.0.0.jar
+MD5-Digest: vF1pECEtpFnMWv0+jR6Keg==
+SHA-Digest: OoEvgC9cJ2Cd74UPx6WFSfSSjDE=
+SHA1-Digest: OoEvgC9cJ2Cd74UPx6WFSfSSjDE=
+
+Name: jar/kxml-2.2.2.jar
+MD5-Digest: iowwtPEpj5pJilUP2mAR7w==
+SHA-Digest: FHOtYitR7bhWEJx3rnQs6iDwGAU=
+SHA1-Digest: FHOtYitR7bhWEJx3rnQs6iDwGAU=
+
+Name: jar/org.apache.felix.configadmin-1.8.2.jar
+MD5-Digest: nRPB9op8K/PIhbq8BbVcxg==
+SHA-Digest: LJKkP+iT0obom2gdhSgAW0Q6GU8=
+SHA1-Digest: LJKkP+iT0obom2gdhSgAW0Q6GU8=
+
+Name: jar/org.apache.felix.eventadmin-1.4.2.jar
+MD5-Digest: I3ytZ4C+TbBvBicyzyQkZQ==
+SHA-Digest: 0P041RSG8twntkSM0iDYTY7g/wQ=
+SHA1-Digest: 0P041RSG8twntkSM0iDYTY7g/wQ=
+
+Name: jar/org.apache.felix.fileinstall-3.5.0.jar
+MD5-Digest: M1p+a1Ka9875NkSQySr5dg==
+SHA-Digest: o36c+9C9YJDN/r33oG6r/8ncbWA=
+SHA1-Digest: o36c+9C9YJDN/r33oG6r/8ncbWA=
+
+Name: jar/org.apache.felix.framework-4.2.1.jar
+MD5-Digest: coQr01+61Jp/jp8eZGUtag==
+SHA-Digest: uTSK9HSsELZsT7BBakRcCxO1UCA=
+SHA1-Digest: uTSK9HSsELZsT7BBakRcCxO1UCA=
+
+Name: jar/org.apache.felix.gogo.command-0.14.0.jar
+MD5-Digest: AbgZmsDt5XzxqyxJju2w5A==
+SHA-Digest: 6i9zT+fAkSB8FNcNqeviJvhNrlo=
+SHA1-Digest: 6i9zT+fAkSB8FNcNqeviJvhNrlo=
+
+Name: jar/org.apache.felix.gogo.runtime-0.16.2.jar
+MD5-Digest: Cn2AKVc+mTmox5u0WOILxw==
+SHA-Digest: cp+o6sz405q1ydCqcqgacaUe7DI=
+SHA1-Digest: cp+o6sz405q1ydCqcqgacaUe7DI=
+
+Name: jar/org.apache.felix.gogo.shell-0.10.0.jar
+MD5-Digest: CLF+XGANm6hpBhfb/Ys97w==
+SHA-Digest: wRnvumlFGyo/1wjNd1pgATzqhEU=
+SHA1-Digest: wRnvumlFGyo/1wjNd1pgATzqhEU=
+
+Name: jar/org.apache.felix.http.api-2.3.2.jar
+MD5-Digest: q5ANEG9AfXxCt8Fv95Z7jw==
+SHA-Digest: d3rRDZwX3rCbLq/8q9a/13erYLg=
+SHA1-Digest: d3rRDZwX3rCbLq/8q9a/13erYLg=
+
+Name: jar/org.apache.felix.http.jetty-2.3.2.jar
+MD5-Digest: emkVtah4qxvB72qFoaw+5Q==
+SHA-Digest: gYRRqcBuo81nzHu20B3QIF/hvzo=
+SHA1-Digest: gYRRqcBuo81nzHu20B3QIF/hvzo=
+
+Name: jar/org.apache.felix.http.servlet-api-1.0.1.jar
+MD5-Digest: 5lnV+llHQTAsqmzZ5FTVSA==
+SHA-Digest: 57QDSK8cdrXgrukN3SWe059P7BE=
+SHA1-Digest: 57QDSK8cdrXgrukN3SWe059P7BE=
+
+Name: jar/org.apache.felix.log-1.0.1.jar
+MD5-Digest: yrlnALkf6FrcB/CLb9fNuQ==
+SHA-Digest: r2mnxcRr6DpVJ9TBRsac4cALniA=
+SHA1-Digest: r2mnxcRr6DpVJ9TBRsac4cALniA=
+
+Name: jar/org.apache.felix.metatype-1.0.10.jar
+MD5-Digest: jTEOEubR80ms7f+EjuMnbg==
+SHA-Digest: TxjesbdtwhERHBsNKCCOLn0/rz4=
+SHA1-Digest: TxjesbdtwhERHBsNKCCOLn0/rz4=
+
+Name: jar/org.apache.felix.resolver-1.0.0.jar
+MD5-Digest: 3GGhV6BXpayMq6ZkqLQFjA==
+SHA-Digest: njTySqTsJ11dPs1mQvRiNxbuq64=
+SHA1-Digest: njTySqTsJ11dPs1mQvRiNxbuq64=
+
+Name: jar/org.apache.felix.scr-1.8.2.jar
+MD5-Digest: zp205pWMvX5VXOxI/c01/A==
+SHA-Digest: wwR9Vu5X3gdSgh/Zw4lN2mZPLjc=
+SHA1-Digest: wwR9Vu5X3gdSgh/Zw4lN2mZPLjc=
+
+Name: jar/org.apache.felix.webconsole-4.2.8.jar
+MD5-Digest: SxMrxVnnuOtcHLdFJ3MTXg==
+SHA-Digest: Mg7xtVZgnJLulRJ/NUyE1OPqBps=
+SHA1-Digest: Mg7xtVZgnJLulRJ/NUyE1OPqBps=
+
+Name: jar/org.apache.felix.webconsole.plugins.gogo-0.0.1.jar
+MD5-Digest: wNd1AiBZhn5aC6awMoeiRw==
+SHA-Digest: zdAtYe4QsjOpkf+OzSqFlaIcJkQ=
+SHA1-Digest: zdAtYe4QsjOpkf+OzSqFlaIcJkQ=
+
+Name: jar/org.objenesis-2.1.0.jar
+MD5-Digest: UIsgU3iYNnInCEQjBtb/6A==
+SHA-Digest: HPnSqVy/kOdbgxnNQr+CPqwScl0=
+SHA1-Digest: HPnSqVy/kOdbgxnNQr+CPqwScl0=
+
+Name: jar/org.slf4j.osgi-over-slf4j-1.7.7.jar
+MD5-Digest: 9NMfhJEJ83YdEF49S1pdOA==
+SHA-Digest: vYyuMLKu6U3l8FP9zpvh9sOfvp0=
+SHA1-Digest: vYyuMLKu6U3l8FP9zpvh9sOfvp0=
+
+Name: jar/osgi.promise-6.0.0.jar
+MD5-Digest: vBEgAioudouVbsFk7r7Djg==
+SHA-Digest: cGSRrInAjkd1crRArAj/tGmgapc=
+SHA1-Digest: cGSRrInAjkd1crRArAj/tGmgapc=
+
+Name: jar/slf4j.api-1.7.2.jar
+MD5-Digest: O7RV3bt5Gcql3/cQV51gCQ==
+SHA-Digest: BSq81Ui0wV4pf8r7suvm/sPpa3c=
+SHA1-Digest: BSq81Ui0wV4pf8r7suvm/sPpa3c=
+
+Name: launcher.properties
+MD5-Digest: vf3D7oPq/p6f5v9DtDqnrA==
+SHA-Digest: WKpQN1QMluU8b1iPsNLybrDaA28=
+SHA1-Digest: WKpQN1QMluU8b1iPsNLybrDaA28=
